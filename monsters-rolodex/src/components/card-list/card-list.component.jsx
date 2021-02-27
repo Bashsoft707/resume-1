@@ -9,8 +9,3 @@ export const CardList = props => (
         ))}
     </div>
 );
-
-
-
-<input type="search" placeholder="search for a cop" 
-					class="search-list" />
